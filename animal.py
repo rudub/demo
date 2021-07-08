@@ -12,7 +12,7 @@ def main():
     elif sys.argv[1] == 'dog':
         dog()
     else:
-        print('hello')
+        print('hello World!')
 
 if __name__ == '__main__':
    main()
